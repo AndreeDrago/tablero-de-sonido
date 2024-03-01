@@ -1,0 +1,28 @@
+.sonidos {
+    background-color: black;
+    display: flex;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+  }
+  
+  .btn {
+    text-transform: uppercase;
+    background-color: rgb(196, 143, 0);
+    border-radius: 30px;
+    border: none;
+    color: #ffffff;
+    margin: 2% auto;
+    width: 90%;
+    padding: 3%;
+    font-size: 3em;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    opacity: 0.9;
+  }
+  
+  .btn:focus {
+    outline: none;
+  }
